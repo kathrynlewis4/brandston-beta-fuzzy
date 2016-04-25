@@ -1,0 +1,27 @@
+/* CSS Document */
+/*
+*	The Font Software, and all copies thereof, is protected by the United States Copyright Law, by the copyright and design laws of other nations, and by international 
+*	treaties. Any copyright, trademark and other rights belong exclusively to Monotype. You do not gain the ownership of the Font Software or any part hereof under this 	
+*	Agreement. The structure, organization, and the code of the Font Software are trade secrets of Monotype, and You agree to treat them as such.
+*
+*	Monotype GmbH, Bergmannstr. 102, 10961 Berlin, Germany
+*
+*	October 2014
+*
+*/
+
+
+@font-face {
+	font-family: 'DINWebMedium';
+	src: url('DINWebMedium.woff') format('woff');
+}	/*src: url('http://03ce3bd.netsolhost.com/css/fonts/DINWebMedium.woff') format('woff');
+
+}*/
+
+@font-face {
+
+font-family: 'DINWebBold';
+	src: url('DINWebBold.woff') format('woff');
+}/*
+	src: url('http://03ce3bd.netsolhost.com/css/fonts/DINWebBold.woff') format('woff');
+}*/
